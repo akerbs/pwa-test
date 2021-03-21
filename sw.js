@@ -7,6 +7,7 @@ const assetUrls = [
   "/js/app.js",
   "/css/styles.css",
   "offline.html",
+  "manifest.json",
 ];
 
 self.addEventListener("install", async (event) => {
