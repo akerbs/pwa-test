@@ -8,6 +8,12 @@ const assetUrls = [
   "/css/styles.css",
   "offline.html",
   "manifest.json",
+  "/icons/favicon.ico",
+  "/icons/app-icon-96.png",
+  "/icons/app-icon-144.png",
+  "/icons/app-icon-192.png",
+  "/icons/app-icon-256.png",
+  "/icons/app-icon-512.png",
 ];
 
 self.addEventListener("install", async (event) => {
